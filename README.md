@@ -3,7 +3,6 @@ Aplikasi Sistem Informasi Management Laundry(Laundry App). Aplikasi Web Manajeme
 Aplikasi ini menggunakan database MySQL bernama bilasbiru dengan tabel-tabel berikut:
 detail_pesanan – Menyimpan rincian item atau item tambahan dalam pesanan.  
 layanan – Menyimpan daftar paket layanan laundry dan harganya.  
-membership – Menyimpan data keanggotaan/member pelanggan.  
 pelanggan – Menyimpan data identitas pelanggan.  
 pembayaran – Menyimpan transaksi dan status pembayaran.  
 pengguna – Menyimpan data akun petugas/admin untuk login.  
